@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\bin\Debug\URScriptSender.exe
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\bin\Debug\URScriptSender.pdb
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\URScriptSender.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\URScriptSender.exe
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\URScriptSender.pdb
+c:\users\jason\documents\visual studio 2010\Projects\URScriptSender\URScriptSender\obj\x86\Debug\URScriptSender.FormYourUR.resources
